@@ -1,0 +1,7 @@
+vosk==0.3.45
+sounddevice==0.4.6
+numpy==1.24.3
+transformers==4.30.2
+torch==2.0.1
+sentencepiece==0.1.99
+pyttsx3==2.90
